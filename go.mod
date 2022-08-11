@@ -1,3 +1,3 @@
-module github.com/aitchkhan/go-101
+module github.com/aitchkhan/go-111
 
 go 1.18

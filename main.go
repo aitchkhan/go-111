@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/aitchkhan/go-101/channels"
+	"github.com/aitchkhan/go-111/channels"
 )
 
 func main() {
